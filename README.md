@@ -7,3 +7,5 @@ Trafik lambası uygulamamızı bu sefer Raspberry Pi Pico ile gerçekleştiriyor
 - devamında sarı LED’i tek başına 2 saniye
 
 Bu sefer uygulamamızda çevrimiçi herhangibir kurulum yapmadan doğrudan tarayıcı ile erişim sağlayabileceğimiz Wokwi simulasyon programını kullandık .
+
+Fritzing devre şeması ve dosya uzantısı proje dosyaları arasında mevcuttur.
